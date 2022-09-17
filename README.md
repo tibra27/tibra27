@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">Computer Science Graduate and Developer</h3>
 
-- 🔭 I’m currently working as **Associate Software Developer @ Oracle**
+- 🔭 I’m currently working as **Software Developer 2 @ Oracle**
 
 - 💬 Ask me about **Full Stack, NLP and Python**
 
